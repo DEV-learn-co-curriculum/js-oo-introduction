@@ -61,3 +61,4 @@ To run the specs follow these commands:
 ## Resources
 
 [javascriptissexy.com — "JavaScript Objects in Detail"](http://javascriptissexy.com/javascript-objects-in-detail/)
+abhi
