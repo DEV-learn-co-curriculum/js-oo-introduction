@@ -61,3 +61,5 @@ To run the specs follow these commands:
 ## Resources
 
 [javascriptissexy.com — "JavaScript Objects in Detail"](http://javascriptissexy.com/javascript-objects-in-detail/)
+
+<a href='https://learn.co/lessons/js-oo-introduction' data-visibility='hidden'>Learn.co resource</a>
